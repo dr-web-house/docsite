@@ -1,0 +1,8 @@
+{
+  "name": "@dr/bkjk-fedoc-recipe",
+  "version": "0.1.0",
+  "description": "Component group: bkjk-fedoc-recipe",
+  "dependencies": {
+    "@bkdoc/doc-home": "1.0.0"
+  }
+}

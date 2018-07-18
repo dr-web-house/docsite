@@ -1,0 +1,11 @@
+{
+  "name": "@fedoc/bkjk-fe-doc",
+  "version": "1.0.0",
+  "description": "The doc site repo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liu Jing",
+  "license": "MIT"
+}

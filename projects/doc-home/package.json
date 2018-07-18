@@ -1,0 +1,13 @@
+{
+  "name": "@bkdoc/doc-home",
+  "version": "1.0.0",
+  "description": "Home module of doc site",
+  "dr": {
+    "angularCompiler": true
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liu Jing",
+  "license": "MIT"
+}
